@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\bin\Debug\net8.0\FightingBotML.exe
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\bin\Debug\net8.0\FightingBotML.deps.json
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\bin\Debug\net8.0\FightingBotML.runtimeconfig.json
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\bin\Debug\net8.0\FightingBotML.dll
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\bin\Debug\net8.0\FightingBotML.pdb
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\FightingBotML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\FightingBotML.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\FightingBotML.AssemblyInfo.cs
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\FightingBotML.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\FightingBotML.dll
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\refint\FightingBotML.dll
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\FightingBotML.pdb
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\FightingBotML.genruntimeconfig.cache
+C:\Users\Admin\Downloads\FightingBotML\FightingBotML\obj\Debug\net8.0\ref\FightingBotML.dll

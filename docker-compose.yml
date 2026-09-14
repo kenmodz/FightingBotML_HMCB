@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  # REST API - dùng cho tích hợp bên ngoài, gọi /predict theo yêu cầu
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: fightingbotml:latest
+    container_name: fightingbotml-app
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/workspace/app
+    restart: unless-stopped
+
+  # Backend realtime - WebSocket cho Unity, độ trễ thấp, giao tiếp theo khung hình
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: fightingbotml:latest
+    container_name: fightingbotml-backend
+    command: uvicorn backend.main:app --host 0.0.0.0 --port 8001
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./app:/workspace/app
+    depends_on:
+      - app
+    restart: unless-stopped

@@ -1,0 +1,14 @@
+# --- Web framework / API ---
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+websockets==13.1
+
+# --- Machine Learning ---
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==1.26.4
+joblib==1.4.2
+
+# --- Tiện ích ---
+python-multipart==0.0.9

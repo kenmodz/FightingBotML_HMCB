@@ -1,0 +1,10 @@
+{
+  "bot_hp": 0.117,
+  "enemy_hp": 0.0942,
+  "distance": 0.2388,
+  "bot_x": 0.0668,
+  "enemy_x": 0.061,
+  "bot_cooldown": 0.199,
+  "time_left": 0.0701,
+  "enemy_last_action": 0.1531
+}

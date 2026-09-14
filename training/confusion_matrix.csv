@@ -1,0 +1,9 @@
+,block,idle,jump,kick,move_left,move_right,punch,special
+block,571,32,6,39,29,12,116,13
+idle,7,1307,3,1,2,8,0,1
+jump,59,14,63,14,13,131,38,6
+kick,7,17,1,55,2,5,95,12
+move_left,7,8,3,2,92,5,2,0
+move_right,2,10,147,2,76,612,3,1
+punch,1,6,2,64,1,7,174,16
+special,6,7,3,9,1,10,31,11
